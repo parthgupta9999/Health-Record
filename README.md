@@ -10,4 +10,4 @@ trained model and Streamlit application is present.
 
 ####################################################################################
 
-For any infomation contact parthgupta9999@gmial.com
+For any infomation contact parthgupta9999@gmail.com
